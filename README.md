@@ -22,12 +22,13 @@ The application provides an interactive chat interface with conversation history
 
 ### Home Screen
 
-![Chatbot UI](<img width="1917" height="850" alt="image" src="https://github.com/user-attachments/assets/0a402eb0-a269-4c5f-846f-a01aa114fe64" />)
+<img width="1917" height="850" alt="image" src="https://github.com/user-attachments/assets/0a402eb0-a269-4c5f-846f-a01aa114fe64" />
+
 
 
 ### Chat Example
 
-![Conversation](<img width="1917" height="867" alt="chat_example" src="https://github.com/user-attachments/assets/9f3e93cd-2ba9-4b9d-87f3-102dd81d6fb1" />)
+<img width="1917" height="867" alt="chat_example" src="https://github.com/user-attachments/assets/9f3e93cd-2ba9-4b9d-87f3-102dd81d6fb1" />
 
 ---
 
