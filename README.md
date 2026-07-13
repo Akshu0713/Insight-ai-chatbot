@@ -1,4 +1,4 @@
-<img width="1917" height="850" alt="image" src="https://github.com/user-attachments/assets/0a402eb0-a269-4c5f-846f-a01aa114fe64" /># 🤖 Generative AI Chatbot using Streamlit & Groq
+# 🤖 Generative AI Chatbot using Streamlit & Groq
 
 An AI-powered chatbot built with **Streamlit**, **LangChain**, and **Groq's Llama-3.3-70B-Versatile** model.
 
@@ -22,11 +22,12 @@ The application provides an interactive chat interface with conversation history
 
 ### Home Screen
 
-![Chatbot UI](images/chatbot_ui.png)
+![Chatbot UI](<img width="1917" height="850" alt="image" src="https://github.com/user-attachments/assets/0a402eb0-a269-4c5f-846f-a01aa114fe64" />)
+
 
 ### Chat Example
 
-![Conversation](images/chat_example.png)
+![Conversation](<img width="1917" height="867" alt="chat_example" src="https://github.com/user-attachments/assets/9f3e93cd-2ba9-4b9d-87f3-102dd81d6fb1" />)
 
 ---
 
